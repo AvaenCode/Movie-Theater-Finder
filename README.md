@@ -6,7 +6,7 @@ The following web application provides the user with a list of movies and an opt
 
 ## Technologies Used
 
-The following application was developed with Java EE in NetBeans using JSF with web technologies HTML/CSS/jQuery to present a fully functional front-end and back-end application. The zip codes, movies and movie theater information are all stored in a SQL database to which are accessed by the application using JPA. The SQL file for creating the database is included in this package.
+The following application was developed with Java EE in NetBeans using JSF with web technologies HTML/CSS/jQuery to present a fully functional front-end and back-end application. The zip codes, movies and movie theater information are all stored in a SQL database to which are accessed by the application using JPA. The SQL file for creating the database is included in this package. **When creating the database, the name of the database should be ProjectMovieDB.**
 
 ## File Descriptions
 
