@@ -10,7 +10,7 @@ The following application was developed with Java EE in NetBeans using JSF with 
 
 ## File Descriptions
 
-### XHTML Files
+### XHTML Files:
 
 1. **Home.xhtml** - Home page of the application. Displays all the movies in the database as well as clickable poster images which will redirect the user to another page to learn more about the movie. Additionally the user can enter a zipcode and if the zipcode is in the database it will redirect the user to another page to display theater results.
 
@@ -26,7 +26,7 @@ The following application was developed with Java EE in NetBeans using JSF with 
 
 7. **ThankYou.xhtml** - A confirmation page that greets the user with a Thank You and option to print. 
 
-### Java Files
+### Java Files:
 
 1. **CinemaEJB.java** - The enterprise java bean which has access to the database entity files associated with the database used in this project.
 
