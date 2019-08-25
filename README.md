@@ -42,9 +42,10 @@ The following application was developed with Java EE in NetBeans using JSF with 
 
 <hr></hr>
 
-## TODO List (How It Can Be Improved) & Moving Forward
+## TODO List (How It Can Be Improved)
 
 There are a couple of adjustments that can be made that will benefit the readability and reusability of this project. Here are a few adjustments that can be made below:
 
 1. Create a separate .css file and reference to that .css file in all of the .xhtml files instead of using an in-line css file.
 2. Adjust the .css file so that there is continuity between all browsers regarding appearance.
+3. Better optimize the database so that the movie image references are stored in a separate column underneath the same 'movie' table rather than being stored in a separate table.
