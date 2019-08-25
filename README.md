@@ -1,7 +1,8 @@
 # Movie Theater Finder Web Application
-## Summary
 
-The following web application provides the user with a list of movies and an option to find theaters by a zip code. The zip code is inputted by the user and respective theaters will come up in that area. The user can select the theater and view which movies and what times the movies are showing per theater. The user can then select a movie and can "purchase" (purchasing is simulated not actually verified nor processed) tickets for a specified movie. Once the user has purchased tickets a confirmation page with an option to print will appear.
+*For the best visual results, please run this web app using Google Chrome.*
+
+The following web application provides the user with a list of movies and an option to find theaters by a zip code. The zip code is inputted by the user and respective theaters will come up in that area. The user can select the theater and view which movies and what times the movies are showing per theater. The user can then select a movie and can "purchase" (purchasing is simulated not actually verified nor processed) tickets for a specified movie. Once the user has purchased tickets a confirmation page with an option to print will appear. 
 
 ## Technologies Used
 
