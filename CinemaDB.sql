@@ -1,3 +1,7 @@
+/*
+* Database Name: ProjectMovieDB
+*/
+
 /* Create the 4 tables needed for this project (Theaters, Movies, PlayLocation(which connects Theaters & Movies), and MoviePosters */
 CREATE TABLE Theaters(
     TheaterID VARCHAR(6) PRIMARY KEY NOT NULL,
