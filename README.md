@@ -10,7 +10,7 @@ The following application was developed with Java EE in NetBeans using JSF with 
 
 ### XHTML Files
 
-**1. Home.xhtml** - Home page of the application. Displays all the movies in the database as well as clickable poster images which will redirect the user to another page to learn more about the movie. Additionally the user can enter a zipcode and if the zipcode is in the database it will redirect the user to another page to display theater results.
+ **1. Home.xhtml** - Home page of the application. Displays all the movies in the database as well as clickable poster images which will redirect the user to another page to learn more about the movie. Additionally the user can enter a zipcode and if the zipcode is in the database it will redirect the user to another page to display theater results.
 
 **2. MoviePosterDetails.xhtml** - A page that will display the selected movie details from the home page.
 
