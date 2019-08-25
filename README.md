@@ -51,3 +51,5 @@ There are a couple of adjustments that can be made that will benefit the readabi
 2. Adjust the .css file so that there is continuity between all browsers regarding appearance.
 
 3. Better optimize the database so that the movie image references are stored in a separate column underneath the same 'movie' table rather than being stored in a separate table.
+____________________________
+*Note: For those who are unfamiliar with the setup of NetBeans 11.0 and/or GlassFish Server 5 a tutorial on how to install the IDE with the server is included.*
